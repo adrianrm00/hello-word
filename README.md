@@ -1,2 +1,2 @@
 # hello-word
-My primer repositorio de la asignatura HMIS
+Mi primer repositorio de la asignatura HMIS
